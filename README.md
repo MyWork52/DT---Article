@@ -1,1 +1,1 @@
-# DT---Article
+# DT-Article
